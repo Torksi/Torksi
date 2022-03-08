@@ -39,5 +39,6 @@
 
 <h3>GitHub Stats:</h3>
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Torksi&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=onedark">
+  <img alt="GitHub Stats" style="margin-right: 1rem" src="https://github-readme-stats.vercel.app/api?username=Torksi&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=onedark">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torksi&layout=compact&theme=onedark">
 </p>
