@@ -4,7 +4,11 @@
   Welcome to my profile!<br />
   I'm Toni, Full-Stack developer from <img src="https://cdn.jsdelivr.net/joypixels/assets/6.5/png/unicode/32/1f1eb-1f1ee.png" width="13"/> <b>Helsinki, Finland</b>. 
   I'm currently studying Business Information Technology at Haaga-Helia University of Applied Sciences.
-  Here you can find some of my projects that I've done on my free time.
+  Here you can find some of my projects that I've done on my free time. If you are interested in seeing more of my work, just hit me up!
+</p>
+
+<p>
+  I'm also open for job offers! If you are interested in working with me, don't hesitate to contact me!
 </p>
 
 <h3>Things I'm experienced at:</h3>
@@ -32,3 +36,8 @@
   <li>LinkedIn - <a href="https://www.linkedin.com/in/toniruhanen/">Toni Ruhanen</a></li>
   <li>Discord - @Torksi#8081</li>
 </ul>
+
+<h3>GitHub Stats:</h3>
+<p>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Torksi&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=onedark">
+</p>
