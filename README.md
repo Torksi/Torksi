@@ -32,8 +32,8 @@
 
 <h3>Contact me elsewhere:</h3>
 <ul>
-  <li>Website - <a href="https://ruhis.fi/">ruhis.fi</a></li>
-  <li>LinkedIn - <a href="https://www.linkedin.com/in/toniruhanen/">Toni Ruhanen</a></li>
+  <li>Website - <a target="_blank" href="https://ruhis.fi/">ruhis.fi</a></li>
+  <li>LinkedIn - <a target="_blank" href="https://www.linkedin.com/in/toniruhanen/">Toni Ruhanen</a></li>
   <li>Discord - @Torksi#8081</li>
 </ul>
 
