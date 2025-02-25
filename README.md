@@ -2,8 +2,8 @@
 
 <p>
   Welcome to my profile!<br />
-  I'm Toni, Full-Stack developer from <img src="https://cdn.jsdelivr.net/joypixels/assets/6.5/png/unicode/32/1f1eb-1f1ee.png" width="13"/> <b>Helsinki, Finland</b>. 
-  I'm currently studying Business Information Technology at Haaga-Helia University of Applied Sciences.
+  I'm Toni, a Security Engineer from <img src="https://cdn.jsdelivr.net/joypixels/assets/6.5/png/unicode/32/1f1eb-1f1ee.png" width="13"/> <b>Helsinki, Finland</b>. 
+  I'm currently working at Wolt as a Security Engineer, focusing on Security Operations and Incident Response. Apart from that, I have a strong background in software engineering.
   Here you can find some of my projects that I've done on my free time. If you are interested in seeing more of my work, just hit me up!
 </p>
 
@@ -15,8 +15,6 @@
 <ul>
   <li>Website - <a target="_blank" href="https://ruhis.fi/">ruhis.fi</a></li>
   <li>LinkedIn - <a target="_blank" href="https://www.linkedin.com/in/toniruhanen/">Toni Ruhanen</a></li>
-  <li>Twitter - <a target="_blank" href="https://twitter.com/Torksii">@Torksii</a></li>
-  <li>Discord - @Torksi#8081</li>
 </ul>
 
 <h3>GitHub Stats:</h3>
